@@ -52,6 +52,27 @@ Main question:
 
 > Is model performance driven by genuine predictive structure or by temporal leakage?
 
+### 02_Baseline_Machine_Learning.ipynb
+
+Builds a clean fraud detection baseline using a strict temporal
+train/validation/test split and graph-based features.
+
+Topics include:
+
+- Logistic Regression baseline
+- Random Forest baseline
+- Degree analysis
+- Clustering Coefficient analysis
+- PageRank analysis
+- Eigenvector Centrality analysis
+- Temporal feature behavior
+- Feature interpretation and comparison
+
+Main question:
+
+> Which graph features provide useful signal for fraud detection
+under a leakage-aware temporal validation framework?
+
 ---
 
 ## Future Directions
