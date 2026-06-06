@@ -21,14 +21,14 @@ Rather than focusing only on model performance, this project explores questions 
 ### Completed
 
 * [x] 01_Leakage_Investigation.ipynb
+* [x] 02_Baseline_Machine_Learning.ipynb
 
 ### In Progress
 
-* [ ] 02_Baseline_Machine_Learning.ipynb
+* [ ] 03_Graph_Feature_Engineering.ipynb
 
 ### Planned
 
-* [ ] 03_Graph_Feature_Engineering.ipynb
 * [ ] 04_Graph_Neural_Networks.ipynb
 * [ ] 05_Topological_Data_Analysis.ipynb
 
