@@ -29,8 +29,11 @@ Rather than focusing only on model performance, this project explores questions 
 
 ### Planned
 
-* [ ] 04_Graph_Neural_Networks.ipynb
-* [ ] 05_Topological_Data_Analysis.ipynb
+* [ ] 04_Static_GNNs.ipynb
+* [ ] 05_Temporal_GNNs.ipynb
+* [ ] 06_Unknown_Class_Experiments.ipynb
+* [ ] 07_Final_Model_Comparison.ipynb
+* [ ] 08_Topological_Data_Analysis.ipynb
 
 ---
 
