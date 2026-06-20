@@ -78,15 +78,16 @@ under a leakage-aware temporal validation framework?
 
 ### 03_Graph_Features_Engineering
 
-Using graph embedding methods and additional predictive signal beyond the original:
+Investigates whether graph embedding methods provide additional predictive information beyond the original transaction and graph features.
+Models evaluated:
 - Random Forest
 - Node2Vec + Random Forest
 - DeepWalk + Randon Forest
 - Logistic Regression
-- Logisitic Regression + Node2Vec
+- Logisitc Regression + Node2Vec
 - Logistic Regression + DeepWalk
 
-> Can the embeddings enhance the features or does the original features still provides the structure?
+> Do graph embeddings provide meaningful improvements over the original feature set, or do the existing graph features already capture most of the available structural information?
 
 ---
 
