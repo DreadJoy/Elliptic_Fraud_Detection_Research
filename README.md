@@ -22,14 +22,14 @@ Rather than focusing only on model performance, this project explores questions 
 
 * [x] 01_Leakage_Investigation.ipynb
 * [x] 02_Baseline_Machine_Learning.ipynb
+* [x] 03_Graph_Feature_Engineering.ipynb
 
 ### In Progress
 
-* [ ] 03_Graph_Feature_Engineering.ipynb
+* [ ] 04_Static_GNNs.ipynb
 
 ### Planned
 
-* [ ] 04_Static_GNNs.ipynb
 * [ ] 05_Temporal_GNNs.ipynb
 * [ ] 06_Unknown_Class_Experiments.ipynb
 * [ ] 07_Final_Model_Comparison.ipynb
