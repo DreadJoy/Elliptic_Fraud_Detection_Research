@@ -76,6 +76,18 @@ Main question:
 > Which graph features provide useful signal for fraud detection
 under a leakage-aware temporal validation framework?
 
+### 03_Graph_Features_Engineering
+
+Using graph embedding methods and additional predictive signal beyond the original:
+- Random Forest
+- Node2Vec + Random Forest
+- DeepWalk + Randon Forest
+- Logistic Regression
+- Logisitic Regression + Node2Vec
+- Logistic Regression + DeepWalk
+
+> Can the embeddings enhance the features or does the original features still provides the structure?
+
 ---
 
 ## Future Directions
