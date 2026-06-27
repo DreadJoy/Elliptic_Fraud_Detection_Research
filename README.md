@@ -118,7 +118,7 @@ Main question:
 
 ## References
 
-* Elliptic Bitcoin Dataset
-* Anti-Money Laundering in Bitcoin
-* Bitcoin Heist (Akcora et al.)
-* EvolveGCN (Pareja et al.)
+* Elliptic Bitcoin Dataset https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
+* Anti-Money Laundering in Bitcoin https://arxiv.org/abs/1908.02591
+* Bitcoin Heist (Akcora et al.) https://arxiv.org/abs/1906.07852
+* EvolveGCN (Pareja et al.) https://arxiv.org/abs/1902.10191
