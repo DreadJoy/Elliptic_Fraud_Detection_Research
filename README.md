@@ -87,7 +87,22 @@ Models evaluated:
 - Logisitc Regression + Node2Vec
 - Logistic Regression + DeepWalk
 
+Main question:
+
 > Do graph embeddings provide meaningful improvements over the original feature set, or do the existing graph features already capture most of the available structural information?
+
+
+### 04_Static_GNN
+
+Investigates whether static Graph Neural Networks provide additional predictive information beyond engineered graph features while preserving a temporal train/validation/test evaluation protocol. Models evaluated:
+- Graph Convolutional Network (GCN)
+- Graph Convolutional Network (Original Features Only)
+- GraphSAGE
+- GraphSAGE (Original Features Only)
+
+Main question:
+
+> Can static Graph Neural Networks provide meaningful improvements over engineered graph features, or do traditional machine learning approaches remain the stronger baseline for fraud detection?
 
 ---
 
