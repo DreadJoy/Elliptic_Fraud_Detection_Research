@@ -31,9 +31,9 @@ Rather than focusing only on model performance, this project explores questions 
 
 ### Planned
 
-* [ ] 06_Unknown_Class_Experiments.ipynb
+* [ ] 06_Topological_Data_Analysis.ipynb
 * [ ] 07_Final_Model_Comparison.ipynb
-* [ ] 08_Topological_Data_Analysis.ipynb
+* [ ] 08_Unknown_Class_Experiments.ipynb ?
 
 ---
 
