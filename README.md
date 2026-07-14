@@ -24,14 +24,14 @@ Rather than focusing only on model performance, this project explores questions 
 * [x] 02_Baseline_Machine_Learning.ipynb
 * [x] 03_Graph_Feature_Engineering.ipynb
 * [x] 04_Static_GNNs.ipynb
+* [x] 05_Temporal_GNNs.ipynb
 
 ### In Progress
 
-* [ ] 05_Temporal_GNNs.ipynb
+* [ ] 06_Topological_Data_Analysis.ipynb
 
 ### Planned
 
-* [ ] 06_Topological_Data_Analysis.ipynb
 * [ ] 07_Final_Model_Comparison.ipynb
 * [ ] 08_Unknown_Class_Experiments.ipynb ?
 
@@ -103,6 +103,16 @@ Investigates whether static Graph Neural Networks provide additional predictive 
 Main question:
 
 > Can static Graph Neural Networks provide meaningful improvements over engineered graph features, or do traditional machine learning approaches remain the stronger baseline for fraud detection?
+
+### 05_Temporal_GNN
+Investigates whether temporal graph neural networks can improve Bitcoin fraud detection by modeling the evolution of the transaction graph over time.
+Models evaluated:
+- EvolveGCN-H
+- EvolveGCN-O
+
+Main question:
+
+> Can temporal graph neural networks improve Bitcoin fraud detection by modeling the evolution of the transaction graph over time, or do traditional machine learning approaches remain the stronger baseline?
 
 ---
 
